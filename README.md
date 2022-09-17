@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm Adrigamer2950, hobbyist spigot plugin developer, and here's my info:
+I'm Adrigamer2950, a hobbyist Spigot Plugin Developer, and here's my info:
 
 - 🔭 I’m currently working on [Friends Spigot Plugin](https://github.com/Adrigamer2950/Friends)
 - 🌱 I’m currently learning Java, NodeJS, 
