@@ -7,3 +7,6 @@ I'm Adrigamer2950, a hobbyist Developer, and here's my info:
 - 📫 How to reach me: Discord (Adrigamer2950#3892) or [Twitter](https://twitter.com/adrigamer2950) (Mention me to open DMS on you)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Autistic lol
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/353104236491309056)](https://discord.com/users/353104236491309056)
