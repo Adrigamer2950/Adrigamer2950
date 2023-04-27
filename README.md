@@ -1,6 +1,4 @@
-### Hi!
-
-I'm Adrigamer2950, a hobbyist Developer, and here's my info:
+### Info:
 
 - 🔭 I’m currently working on **nothing**
 - 🌱 I’m currently learning Java, NodeJS
