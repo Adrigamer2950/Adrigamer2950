@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **nothing**
 - 🌱 I’m currently learning Java, NodeJS
-- 📫 How to reach me: Discord (Adrigamer2950#3892) or [Twitter](https://twitter.com/adrigamer2950) (Mention me to open DMS on you)
+- 📫 How to reach me: Discord (Adrigamer2950#3892) or [Twitter](https://twitter.com/adrigamer2950)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Autistic lol
 
