@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **nothing**
 - 🌱 I’m currently learning Java, NodeJS
-- 📫 How to reach me: Discord (Adrigamer2950#3892) or [Twitter](https://twitter.com/adrigamer2950)
+- 📫 How to reach me: Discord (@soycantabro) or [Twitter](https://twitter.com/adrigamer2950)
 - ⚡ Fun fact: Autistic lol
 
 
