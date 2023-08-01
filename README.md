@@ -1,6 +1,5 @@
 ### Info:
 
-- 🔭 I’m currently working on [AdriAPI Spigot API](https://github.com/Adrigamer2950/AdriAPI)
 - 🌱 I’m currently learning Java, NodeJS
 - 📫 How to reach me: Discord (@soycantabro) or [Twitter](https://twitter.com/adrigamer2950)
 - ⚡ Fun fact: Autistic lol
