@@ -1,6 +1,6 @@
 ### Info:
 
-- 🛠 Currently working on [AdriAPI](https://github.com/Adrigamer2950/AdriAPI), [PlayerLogs](https://github.com/Adrigamer2950/PlayerLogs) and [AdriTags](https://github.com/Adrigamer2950/AdriTags), more coming soon...
+- 🛠 Currently working on [AdriAPI](https://github.com/Adrigamer2950/AdriAPI), [PlayerLogs](https://github.com/Adrigamer2950/PlayerLogs) and [PremiumTags](https://github.com/Adrigamer2950/PremiumTags), more coming soon...
 - 🌱 I’m currently learning Java, NodeJS
 - 📫 How to reach me: Discord (@soycantabro) or [Twitter (X)](https://x.com/adrigamer2950)
 - ⚡ Fun fact: Autistic lol
