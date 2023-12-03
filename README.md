@@ -1,6 +1,6 @@
 ### Info:
 
-- 🛠 Currently working on [AdriAPI](https://github.com/Adrigamer2950/AdriAPI), [PlayerLogs](https://github.com/Adrigamer2950/PlayerLogs) and [PremiumTags](https://github.com/Adrigamer2950/PremiumTags), more coming soon...
+- 🛠 Currently working on [AdriAPI](https://github.com/Adrigamer2950/AdriAPI), [PlayerLogs](https://github.com/Adrigamer2950/PlayerLogs) and [PremiumTags](https://github.com/Adrigamer2950/PremiumTags)
 - 👀 Developer on [Nautic Bedrock](https://discord.gg/nauticbedrock)
 - 🌱 I’m currently learning Java, NodeJS
 - 📫 How to reach me: Discord (@soycantabro) or [Twitter (X)](https://x.com/adrigamer2950)
