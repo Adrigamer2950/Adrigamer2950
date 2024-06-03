@@ -1,7 +1,7 @@
 ### Info:
 
 - 🛠 Currently working on [AdriAPI](https://github.com/Adrigamer2950/AdriAPI), [PremiumTags](https://github.com/Adrigamer2950/PremiumTags) and [AccountGuard](https://github.com/Adrigamer2950/AccountGuard)
-- 👀 Dev in [Nautic Bedrock](https://discord.gg/nauticbedrock)
+- 👀 Admin in [Nautic Bedrock](https://discord.gg/nauticbedrock)
 - 🌱 I’m currently learning Java, NodeJS
 - 📫 Contact: Discord (@soycantabro) or [Twitter (X)](https://x.com/adrigamer2950)
 
