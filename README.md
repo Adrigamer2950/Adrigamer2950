@@ -9,8 +9,8 @@
 <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=bun,discord,bots,discordjs,docker,git,github,gradle,idea,java,linux,md,maven,mysql,nodejs,npm,prisma,sqlite,twitter,ts,vscode,windows,neovim,notion,postman,redis,replit,stackoverflow,ubuntu,vim,vercel&perline=16" width="100%"></a>
 <br></br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adrigamer2950&show_icons=true&count_private=true&theme=dracula" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrigamer2950&count_private=true&layout=compact&theme=dracula" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adrigamer2950&show_icons=true&count_private=true&theme=dracula" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrigamer2950&count_private=true&layout=compact&theme=dracula" height="160">
 </div>
 <br></br>
 
