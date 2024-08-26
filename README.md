@@ -6,7 +6,7 @@
 - 📫 How to reach me: Discord (@devadrii) [Twitter (X)](https://x.com/adrigamer2950) [business@devadri.es](mailto:business@devadri.es)
 
 ### Technologies I use:
-<a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=bun,discord,bots,discordjs,docker,git,github,gradle,idea,java,linux,md,maven,mysql,nodejs,npm,prisma,sqlite,twitter,ts,vscode,windows,mint,neovim,notion,ps,postman,redis,replit,stackoverflow,ubuntu,vim,vercel&perline=16" width="100%"></a>
+<a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=bun,discord,bots,discordjs,docker,git,github,gradle,idea,java,linux,md,maven,mysql,nodejs,npm,prisma,sqlite,twitter,ts,vscode,windows,neovim,notion,postman,redis,replit,stackoverflow,ubuntu,vim,vercel&perline=16" width="100%"></a>
 
 ![made_you_read](https://raw.githubusercontent.com/Adrigamer2950/Adrigamer2950/main/made_you_read.png)
 <br></br>
