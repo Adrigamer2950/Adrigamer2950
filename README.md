@@ -7,7 +7,13 @@
 
 ### Technologies I use:
 <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=bun,discord,bots,discordjs,docker,git,github,gradle,idea,java,linux,md,maven,mysql,nodejs,npm,prisma,sqlite,twitter,ts,vscode,windows,neovim,notion,postman,redis,replit,stackoverflow,ubuntu,vim,vercel&perline=16" width="100%"></a>
+<br></br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adrigamer2950&show_icons=true&count_private=true&theme=dracula" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrigamer2950&count_private=true&layout=compact&theme=dracula" height="200">
+</div>
+<br></br>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/353104236491309056)](https://discord.com/users/353104236491309056)
 
 ![made_you_read](https://raw.githubusercontent.com/Adrigamer2950/Adrigamer2950/main/made_you_read.png)
-<br></br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/353104236491309056)](https://discord.com/users/353104236491309056)
