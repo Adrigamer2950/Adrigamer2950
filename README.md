@@ -13,9 +13,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrigamer2950&count_private=true&layout=compact&theme=dracula" height="160">
 </div>
 <br></br>
-<p align="center"><img src="https://raw.githubusercontent.com/Adrigamer2950/Adrigamer2950/output/snake.svg" alt="Snake animation" /></p>
-<br></br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adrigamer2950/Adrigamer2950/output/snake.svg" alt="Snake animation" />
+  <br></br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/353104236491309056)](https://discord.com/users/353104236491309056)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Adrigamer2950&theme=dracula" />
+  </a>
+  <br></br>
 
-![made_you_read](https://raw.githubusercontent.com/Adrigamer2950/Adrigamer2950/main/made_you_read.png)
+  <a href="https://discord.com/users/353104236491309056">
+    <img src="https://lanyard.cnrad.dev/api/353104236491309056" />
+  </a>
+  <br></br>
+
+  <img src="https://raw.githubusercontent.com/Adrigamer2950/Adrigamer2950/main/made_you_read.png" />
+</p>
+
+
