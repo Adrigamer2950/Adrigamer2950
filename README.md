@@ -3,7 +3,7 @@
 - 🧩 Also known as `devadrii`
 - 🛠 Currently working on [AdriAPI](https://github.com/Adrigamer2950/AdriAPI), [AccountGuard](https://github.com/Adrigamer2950/AccountGuard) and [PremiumTags](https://github.com/Adrigamer2950/PremiumTags)
 - 👀 Dev in [Nautic Bedrock](https://discord.gg/nauticbedrock)
-- 🌱 I’m currently learning Java, NodeJS, SQL
+- 🌱 I’m currently learning Java, NodeJS, SQL, Go
 - 📫 How to reach me: Discord (@devadrii) [Twitter (X)](https://x.com/adrigamer2950) [business@devadri.es](mailto:business@devadri.es)
 
 ### Technologies I use:
