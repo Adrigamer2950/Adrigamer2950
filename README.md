@@ -1,10 +1,10 @@
-### Info:
+### Info
 
 - 🧩 Mainly Minecraft plugin programmer
 - 👀 Dev in [Nautic Bedrock](https://discord.gg/nauticbedrock)
 - 📫 How to reach me: Discord (@devadrii) [Twitter (X)](https://x.com/adrigamer2950) [business@devadri.es](mailto:business@devadri.es)
 
-### Technologies I use:
+### Technologies I use
 <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=bun,discord,bots,discordjs,docker,git,github,gradle,idea,java,linux,md,maven,mysql,nodejs,npm,prisma,sqlite,twitter,ts,vscode,windows,neovim,notion,postman,redis,replit,stackoverflow,ubuntu,vim,vercel&perline=16" width="100%"></a>
 
 ### Stats
