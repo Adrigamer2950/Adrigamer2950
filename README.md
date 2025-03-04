@@ -1,13 +1,13 @@
-### Info
+## Info
 
-- 🧩 Mainly Minecraft plugin programmer
+- 🧩 [Paper](https://github.com/PaperMC/Paper) Plugin Developer
 - 👀 Dev in [Nautic Bedrock](https://discord.gg/nauticbedrock)
 - 📫 How to reach me: Discord (@devadrii) [Twitter (X)](https://x.com/adrigamer2950) [business@devadri.es](mailto:business@devadri.es)
 
-### Technologies I use
-<a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=bun,discord,bots,discordjs,docker,git,github,gradle,idea,java,linux,md,maven,mysql,nodejs,npm,prisma,sqlite,twitter,ts,vscode,windows,neovim,notion,postman,redis,replit,stackoverflow,ubuntu,vim,vercel&perline=16" width="100%"></a>
+## Technologies I use
+<a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=bun,discord,bots,discordjs,docker,git,github,gradle,idea,java,linux,md,maven,mysql,nodejs,npm,prisma,sqlite,twitter,ts,vscode,windows,neovim,notion,postman,redis,replit,stackoverflow,ubuntu,vim,vercel,kotlin&perline=16" width="100%"></a>
 
-### Stats
+## Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adrigamer2950&show_icons=true&count_private=true&theme=dracula" height="160">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrigamer2950&count_private=true&layout=compact&theme=dracula" height="160">
