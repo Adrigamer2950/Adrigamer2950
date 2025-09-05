@@ -1,7 +1,7 @@
 ## Info
 
 - 🧩 [Paper](https://github.com/PaperMC/Paper) Plugin Developer
-- 👀 Dev in [Nautic Bedrock](https://discord.gg/nauticbedrock)
+- 👀 Dev in [Nautic Bedrock](https://web.nauticmc.net)
 - 📫 How to reach me: Discord (@devadrii) [Twitter (X)](https://x.com/adrigamer2950) [business@devadri.es](mailto:business@devadri.es)
 
 ## Technologies I use
